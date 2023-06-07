@@ -1,5 +1,5 @@
 {
-  "presets": ["@babel/env"]
+  "presets": ["@babel/env", "@babel/typescript", "@babel/react"]
   //이번에는 ES5 문법이 적용되어 arrow function 대신에 일반 function이 사용된 코드가 출력되는 것을 볼 수 있습니다.
 
 }
